@@ -1,0 +1,1 @@
+SELECT amount * price::float AS total FROM items
